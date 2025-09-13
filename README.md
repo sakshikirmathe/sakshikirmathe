@@ -1,27 +1,93 @@
-<h1 align="center">Hi 👋, I'm Sakshi!</h1>
-<h3 align="center">Exploring the world of data, AI, and smart ML models.</h3>
+<!--
+Credits and references used in this README:
 
-- 🔭 I’m currently working on **LLMs**
+1) Layout ideas and section inspiration:
+   https://github.com/abhisheknaiidu/awesome-github-profile-readme?tab=readme-ov-file#descriptive-
 
-- 👯 I’m looking to collaborate on **data analysis with AI agents**
+2) Skill icons (SVG badges):
+   https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list
 
-- 📫 How to reach me **sakshikirmathe@gmail.com**
+3) GitHub stats card:
+   https://github.com/anuraghazra/github-readme-stats
+-->
 
-- 📄 Know about my experiences [https://tinyurl.com/sakshikirmatheResume](https://tinyurl.com/sakshikirmatheResume)
+# 🐿️ Sakshi Kirmathe
+**`Data Analyst`**
 
-- ⚡ You know nothing, broken code. **Valar Deployulis!**
+### About Me
+- 🔭 I’m currently working on **LLMs**  
+- 👯 I’m looking to collaborate on **data analysis with AI agents**  
+- ⚡ You know nothing, broken code. ***Valar Deployulis!***
 
-<h3 align="left">Connect with me:</h3>
+---
+
+### 🛠️ Tech Stack
 <p align="left">
-<a href="https://linkedin.com/in/sakshikirmathe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sakshikirmathe" height="30" width="40" /></a>
-<a href="https://instagram.com/sakshi_kirmathe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sakshi_kirmathe" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/jazzcode7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jazzcode7" height="30" width="40" /></a>
+  <img src="https://skillicons.dev/icons?i=python,mysql,postman,aws,java,html,css,js,php,tensorflow,sklearn,git,github,figma" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-<p align="center" style="display: flex; justify-content: center; align-items: center; gap: 20000px;">
-  <img src="squirrel.png" alt="Squirrel Mascot" height="195"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=sakshikirmathe&show_icons=true&locale=en" alt="sakshikirmathe GitHub Stats" height="200"/>
-</p>
+**Comfortable with**: Python, MySQL, Data Visualization  
+
+---
+
+### Projects - Showcase  
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <b>Facial Recognition Attendance System</b><br/>
+      <sub>A biometric system that marks attendance through real-time recognition.  
+      Stored data in a backend database.</sub><br/>
+      🔗 <a href="#">Repo</a>  
+      <br/>
+      <sub>Tags: Python, Computer Vision, Database</sub>
+    </td>
+    <td align="center" width="33%">
+      <b>CarboNeutral</b><br/>
+      <sub>Web app to help organizations assess & reduce their carbon footprint.  
+      Integrated assessments + backend logic.</sub><br/>
+      🔗 <a href="#">Repo</a>  
+      <br/>
+      <sub>Tags: HTML, CSS, JS, PHP, MySQL</sub>
+    </td>
+    <td align="center" width="33%">
+      <b>Voice Assistant for Form Filling</b><br/>
+      <sub>Created a voice-controlled application that automates form filling  
+      to improve accessibility.</sub><br/>
+      🔗 <a href="#">Repo</a>  
+      <br/>
+      <sub>Tags: Python, Automation</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+### Stats  
+![Sakshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakshikirmathe&show_icons=true&theme=tokyonight)
+
+---
+
+### Links  
+
+<table style="width:100%;">
+  <tr>
+    <td align="left" width="70%">
+      
+- 📄 [Know about my experiences](https://tinyurl.com/sakshikirmatheResume)  
+- 📫 Email: **sakshikirmathe@gmail.com**  
+- 💼 LinkedIn: [sakshikirmathe](https://www.linkedin.com/in/sakshikirmathe)  
+- 📷 Instagram: [sakshi_kirmathe](https://www.instagram.com/sakshi_kirmathe)  
+- 🧩 LeetCode: [jazzcode7](https://leetcode.com/u/jazzcode7)  
+
+    </td>
+    <td align="right" width="30%">
+      <img src="squirrel.png" alt="Squirrel Mascot" width="1200"/>
+    </td>
+  </tr>
+</table>
+
+
+
+
