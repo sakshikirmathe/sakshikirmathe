@@ -12,7 +12,7 @@ Credits and references used in this README:
 -->
 
 # 🐿️ Sakshi Kirmathe
-**`Data Analyst`**
+**`Data Sience | AI/ML enthusiast`**
 
 ### About Me
 - 🔭 I’m currently working on **LLMs**  
