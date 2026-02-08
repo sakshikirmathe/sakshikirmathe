@@ -15,9 +15,10 @@ Credits and references used in this README:
 **`Data Sience | AI/ML enthusiast`**
 
 ### About Me
-- 🔭 I’m currently working on **LLMs**  
-- 👯 I’m looking to collaborate on **data analysis with AI agents**  
-- ⚡ You know nothing, broken code. ***Valar Deployulis!***
+- 🔭 Currently working on applied LLMs & intelligent data workflows  
+- 👯 Open to collaborating on data analysis, AI agents & automation projects  
+- ⚡ You know nothing, broken code. *Valar Deployulis!*
+
 
 ---
 
