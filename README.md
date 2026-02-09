@@ -12,21 +12,31 @@ Credits and references used in this README:
 -->
 
 # 🐿️ Sakshi Kirmathe
-**`Data Sience | AI/ML enthusiast`**
+**`Data Science | AI/ML enthusiast`**
 
 ### About Me
 - 🔭 Currently working on applied LLMs & intelligent data workflows  
 - 👯 Open to collaborating on data analysis, AI agents & automation projects  
 - ⚡ You know nothing, broken code. *Valar Deployulis!*
 
-
 ---
 
 ### 🛠️ Tech Stack
+
+**1. Core**  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,mysql,postman,aws,java,html,css,js,php,tensorflow,sklearn,git,github,figma" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,sklearn,tensorflow" />
 </p>
 
+**2. Web & Backend**  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,react" />
+</p>
+
+**3. Tools**  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,aws,figma" />
+</p>
 
 **Comfortable with**: Python, MySQL, Data Visualization  
 
@@ -37,28 +47,37 @@ Credits and references used in this README:
 <table>
   <tr>
     <td align="center" width="33%">
-      <b>Facial Recognition Attendance System</b><br/>
-      <sub>A biometric system that marks attendance through real-time recognition.  
-      Stored data in a backend database.</sub><br/>
-      🔗 <a href="#">Repo</a>  
-      <br/>
-      <sub>Tags: Python, Computer Vision, Database</sub>
+      <b>CareerLens: AI Counseling Summarization</b><br/><br/>
+      <p style="font-size:14px;">
+        Built an AI system for real-time counseling transcripts and generate
+        multilingual, context-aware summaries using fine-tuned LLaMA 3.1.
+        Implemented Q&A, action-item extraction, and a dashboard for structured
+        career insights and recommendations.
+      </p>
+      🔗 <a href="#">Repo</a><br/><br/>
+      <sub>Tags: Python, NLP, LLMs, Unsloth, PEFT (QLoRA), Flask</sub>
     </td>
     <td align="center" width="33%">
-      <b>CarboNeutral</b><br/>
-      <sub>Web app to help organizations assess & reduce their carbon footprint.  
-      Integrated assessments + backend logic.</sub><br/>
-      🔗 <a href="#">Repo</a>  
-      <br/>
-      <sub>Tags: HTML, CSS, JS, PHP, MySQL</sub>
+      <b>Gesturely: Gesture Translation System</b><br/><br/>
+      <p style="font-size:14px;">
+        Developed a real-time Indian Sign Language (ISL) recognition pipeline using
+        pose landmarks and DL models for gesture classification.
+        Converted gestures into grammatically correct English sentences using NLP
+        to improve accessibility.
+      </p>
+      🔗 <a href="#">Repo</a><br/><br/>
+      <sub>Tags: OpenCV, Deep Learning, MediaPipe, CNN, LSTM</sub>
     </td>
     <td align="center" width="33%">
-      <b>Voice Assistant for Form Filling</b><br/>
-      <sub>Created a voice-controlled application that automates form filling  
-      to improve accessibility.</sub><br/>
-      🔗 <a href="#">Repo</a>  
-      <br/>
-      <sub>Tags: Python, Automation</sub>
+      <b>PEP Candidates Scraping & Analysis</b><br/><br/>
+      <p style="font-size:14px;">
+        Automated scraping of PEPs data using Playwright
+        and Chromium, handled dynamic content, pagination, and structured extraction.
+        Performed data transformation and exploratory analysis, and
+        visualized trends using Power BI.
+      </p>
+      🔗 <a href="#">Repo</a><br/><br/>
+      <sub>Tags: Playwright, Chromium, Data Scraping, Power BI, Excel</sub>
     </td>
   </tr>
 </table>
@@ -77,7 +96,7 @@ Credits and references used in this README:
     <td align="left" width="70%">
       
 - 📄 [Know about my experiences](https://tinyurl.com/sakshikirmatheResume)  
-- 📫 Email: **sakshikirmathe@gmail.com**  
+- 📫 Email: **kirmathesakshi@gmail.com**  
 - 💼 LinkedIn: [sakshikirmathe](https://www.linkedin.com/in/sakshikirmathe)  
 - 📷 Instagram: [sakshi_kirmathe](https://www.instagram.com/sakshi_kirmathe)  
 - 🧩 LeetCode: [jazzcode7](https://leetcode.com/u/jazzcode7)  
@@ -88,7 +107,3 @@ Credits and references used in this README:
     </td>
   </tr>
 </table>
-
-
-
-
