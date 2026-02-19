@@ -11,15 +11,18 @@ Credits and references used in this README:
    https://github.com/anuraghazra/github-readme-stats
 -->
 
-# 🐿️ Sakshi Kirmathe
-**`Data Science | AI/ML enthusiast`**
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=sakshikirmathe&label=Profile%20Views&color=7C3AED&style=flat"/>
+</p>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&pause=1200&color=7C3AED&center=true&vCenter=true&width=700&height=45&lines=Hello!+I'm+Sakshi+Kirmathe;Data+Science+%7C+AI%2FML+Enthusiast"/>
+</div>
 
-### About Me
+### 👩‍💻 About Me
 - 🔭 Currently working on applied LLMs & intelligent data workflows  
 - 👯 Open to collaborating on data analysis, AI agents & automation projects  
 - ⚡ You know nothing, broken code. *Valar Deployulis!*
-
----
+##
 
 ### 🛠️ Tech Stack
 
@@ -40,9 +43,9 @@ Credits and references used in this README:
 
 **Comfortable with**: Python, MySQL, Data Visualization  
 
----
+##
 
-### Projects - Showcase  
+### 🚀 Projects - Showcase  
 
 <table>
   <tr>
@@ -82,28 +85,23 @@ Credits and references used in this README:
   </tr>
 </table>
 
----
+##
+### 🌐 Socials  
 
-### Stats  
-![Sakshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakshikirmathe&show_icons=true&theme=tokyonight)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sakshikirmathe)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kirmathesakshi@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sakshi_kirmathe)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/jazzcode7)
 
----
+##
+### 📊 Stats  
 
-### Links  
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sakshikirmathe&theme=tokyonight&hide_border=true" height="180"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="squirrel.png" height="180"/>
+</p>
 
-<table style="width:100%;">
-  <tr>
-    <td align="left" width="70%">
-      
-- 📄 [Know about my experiences](https://tinyurl.com/sakshikirmatheResume)  
-- 📫 Email: **kirmathesakshi@gmail.com**  
-- 💼 LinkedIn: [sakshikirmathe](https://www.linkedin.com/in/sakshikirmathe)  
-- 📷 Instagram: [sakshi_kirmathe](https://www.instagram.com/sakshi_kirmathe)  
-- 🧩 LeetCode: [jazzcode7](https://leetcode.com/u/jazzcode7)  
 
-    </td>
-    <td align="right" width="30%">
-      <img src="squirrel.png" alt="Squirrel Mascot" width="1200"/>
-    </td>
-  </tr>
-</table>
+
+
